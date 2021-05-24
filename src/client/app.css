@@ -1,0 +1,79 @@
+h1 {
+  color: #000;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+  font-size: 14px;
+  /* font-family: arial; */
+  font-family: calibri;
+}
+
+.text-left {
+  text-align: left;
+  float: left;
+}
+
+.text-right {
+  text-align: right;
+  float: right;
+}
+
+label {
+  padding-left: 20px;
+}
+
+/* .w-50 {
+  width: 50%;
+}
+
+.w-25 {
+  width: 25%;
+}
+
+.w-100 {
+  width: 100%;
+}
+.inline {
+  display: inline !important;
+}
+.container {
+  width: 800px;
+}
+
+
+h1 {
+  color: #000;
+}
+
+.p-2 {
+  padding: 20px;
+} */
+a {
+  color: #000 !important;
+}
+.card {
+  border-radius: 30px !important;
+}
+.pr-2 {
+  padding-right: 20px;
+}
+.btn-primary {
+  background-color: rgb(96, 196, 247) !important;
+  border: none !important;
+  color: #000 !important;
+  border-radius: 0 !important;
+}
+/* Header Styles */
+.header,
+.footer {
+  color: #000;
+  background-color: rgb(96, 196, 247);
+  margin: auto;
+  padding: 20px;
+  font-family: calibri;
+  font-size: 16px;
+}
+
+/* Footer Styles */
